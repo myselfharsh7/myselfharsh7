@@ -10,6 +10,7 @@ I am eagerly looking forward to applying my skills and knowledge to a challengin
 
 📚 **Education:**
 B.Tech in Computer Science and Engineering
+
 Constantly evolving my skill set through hands-on projects, certifications, and challenges.
 
 ## 🛠️ Skills  
@@ -18,7 +19,7 @@ Constantly evolving my skill set through hands-on projects, certifications, and 
 - **Cybersecurity Tools (Familiarity):**: Burp Suite • Nmap • Wireshark • Splunk • IBM QRadar • Metasploit • ELK STACK • EDR (MS DEFENDER)
 - **Security Concepts:** Incident Response • Incident Handling • Email Security • Malware Analysis (static and Dynamic) • Threat Hunting • SOAR • Memory and Disk Forensic (DFIR) 
 - **Penetration Testing:** Test for common network and web application vulnerabilities.
-- 
+
 ## 🌟 Projects  
 - [**Email Analyzer**](https://github.com/myselfharsh7/email-analyzer): A Django web app that analyzes email security, with features like DNS checks, Spoof_check and Email_parser .  
 - [**Vulnerability Scanner**](https://github.com/myselfharsh7/vulnerability-scanner): A Python tool for scanning web applications for common security vulnerabilities like SQLi and XSS.  
