@@ -58,7 +58,7 @@ Constantly evolving my skill set through hands-on projects, certifications, and 
 I love tackling **CTF challenges** and experimenting with new **ethical hacking** tools, always staying curious about the ever-evolving world of cybersecurity! 🌐
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/3o7bvl9Fz8KTbA9fBq/giphy.gif](https://media.giphy.com/media/lrr9rHuoJOE0w/giphy.gif?cid=790b76117y7rmmuxvkymv7v2farijas2pup8s15ey18uobu2&ep=v1_gifs_search&rid=giphy.gif&ct=g)" alt="CTF challenge animation" width="500"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWNxbWZld282enE2eHdnbnRuMDV5YWdjaThpMGl4ZXY1MGtidTNrbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lrr9rHuoJOE0w/giphy.gif" alt="CTF challenge animation"/>
 </p>
 
 Let’s connect and build something amazing together! ✨
