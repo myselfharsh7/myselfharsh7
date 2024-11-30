@@ -1,56 +1,37 @@
-# 👋 Hi, I'm Harsh Kumar Gupta  
+# Hi there! 
+## **Lets start by famous quote** 
+Its takes 20+ years to build a reputation and few mins of cyber incident to ruin it
+Welcome to my GitHub profile! 🚀 👋 I'm Harsh Kumar Gupta  and I'm **Cyber Security Enthusiast**
 
-**🎓 Cybersecurity Enthusiast | 💻 Software Developer | 🛡️ Aspiring Security Analyst**  
+## 👨‍💻 About Me  
+I am enthusiastic about forging a career in cybersecurity as a Security Analyst. Armed with a solid understanding of security concepts, proficiency in networking protocols, and hands-on experience with SIEM tools, antivirus, and firewall technologies, my goal is to safeguard organizational data and assets.
 
-Welcome to my GitHub profile! I’m passionate about **cybersecurity**, **software development**, and creating tools that solve real-world problems. I love learning, building projects, and collaborating with the community.  
+I am eagerly looking forward to applying my skills and knowledge to a challenging cybersecurity role, where I can contribute positively to the organization's security landscape.
 
----
+- 🌱 Currently focusing on **Vulnerability Assessment and Penetration Testing (VAPT)** and **SOC operations**.  
+- 💻 Experienced in **Python**, **C++**, and **Web Development** with a focus on **Django**.  
+- 🔍 Passionate about **Incident Response**, **Threat Hunting**, and **Web Application Security**.  
+- 🎓 **B.Tech** student in **Computer Science And Engineering**  
 
-## 🛠️ Tech Stack  
+## 🛠️ Skills  
+- **Programming Languages:** Python, C/C++, HTML, CSS, JavaScript  
+- **Web Development:** Django, Bootstrap, MySQL  
+- **Cybersecurity Tools:** Burp Suite, Nmap, Wireshark, Metasploit, Splunk, IBM QRadar  
+- **Security Concepts:** Incident Response, Malware Analysis, Email Security, Threat Hunting, DFIR  
 
-### Programming Languages  
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+## 🌟 Projects  
+- [**Email Analyzer**](https://github.com/myselfharsh7/email-analyzer): A Django web app that analyzes email security, with features like DNS checks, Spoof_check and Email_parser .  
+- [**Vulnerability Scanner**](https://github.com/myselfharsh7/vulnerability-scanner): A Python tool for scanning web applications for common security vulnerabilities like SQLi and XSS.  
+- [**Portfolio Website**](https://github.com/myselfharsh7/portfolio): A dynamic portfolio website built using Django and Bootstrap, showcasing my projects and skills.  
 
-### Web Development  
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+## 📜 Certifications  
+- **Prepare for CompTIA Security+ (SY0-701)** (April 2024)  **Linkedin Learning**
 
-### Cybersecurity Tools  
-![Nmap](https://img.shields.io/badge/-Nmap-0040FF?logo=nmap&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/-Burp_Suite-FF5733?logo=burp-suite&logoColor=white)
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white)
-![Splunk](https://img.shields.io/badge/-Splunk-000000?logo=splunk&logoColor=white)
+## 📫 Connect with Me  
+- 💼 [LinkedIn](https://www.linkedin.com/in/harsh-kumar-gupta-4a624318b/)  
+- 🔗 [GitHub](https://github.com/myselfharsh7)  
 
----
+## 🚀 Fun Fact  
+I love tackling **CTF challenges** and experimenting with new **ethical hacking** tools, always staying curious about the ever-evolving world of cybersecurity!  
 
-## 🚀 My Projects  
-
-### [📧 Email Analyzer](https://github.com/myselfharsh7/Email-Analyzer)  
-A Python Django web app that combines email parsing, DNS checks, and spoofing analysis to enhance email security.  
-
-### [🔍 Basic Vulnerability Scanner](https://github.com/myselfharsh7/Vulnerability-Scanner)  
-A Python-based tool that detects web vulnerabilities like SQL injection and XSS by analyzing input fields.  
-
-### [🌐 Personal Portfolio Website](https://github.com/myselfharsh7/Portfolio)  
-A responsive Django-based portfolio showcasing my projects and skills.  
-
----
-
-## 📈 Stats  
-
-![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=myselfharsh7&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=myselfharsh7&layout=compact&theme=radical)  
-
----
-
-## 📫 Let's Connect  
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-kumar-gupta-4a624318b/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/myselfharsh7)  
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:harshh.kumargupta@gmail.com)  
-
-Feel free to explore my repositories, connect with me, or collaborate on exciting projects! 😊  
+Let’s connect and build something amazing together! ✨
