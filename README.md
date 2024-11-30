@@ -52,6 +52,10 @@ Constantly evolving my skill set through hands-on projects, certifications, and 
 ## 🚀 Fun Fact  
 I love tackling **CTF challenges** and experimenting with new **ethical hacking** tools, always staying curious about the ever-evolving world of cybersecurity! 🌐
 
+<p align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWNxbWZld282enE2eHdnbnRuMDV5YWdjaThpMGl4ZXY1MGtidTNrbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lrr9rHuoJOE0w/giphy.gif" alt="CTF challenge animation"/>
+</p>
+
 ---
 
 ## 📫 Connect with Me  
@@ -59,8 +63,4 @@ I love tackling **CTF challenges** and experimenting with new **ethical hacking*
 - 🔗 [GitHub](https://github.com/myselfharsh7)  
 
 ---
-<p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWNxbWZld282enE2eHdnbnRuMDV5YWdjaThpMGl4ZXY1MGtidTNrbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lrr9rHuoJOE0w/giphy.gif" alt="CTF challenge animation"/>
-</p>
-
 Let’s connect and build something amazing together! ✨
