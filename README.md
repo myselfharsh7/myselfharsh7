@@ -1,10 +1,9 @@
 # Welcome to my GitHub profile! 👨‍💻
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt6JQAd11bOWdu8/giphy.gif" alt="Cybersecurity Animation" width="500"/>
-  <div style="width:100%;height:0;padding-bottom:60%;position:relative;"><iframe src="https://giphy.com/embed/BemKqR9RDK4V2" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/japan-jet-alt-BemKqR9RDK4V2">via GIPHY</a></p>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2FnYmc3Nm16aXhkM2dvcGl2dzhjbnR1eW11Y2h6d2s0emo1cTkyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BemKqR9RDK4V2/giphy.gif" alt="Cybersecurity Animation" width="500"/>
 </p>
-
-> “It takes 20+ years to build a reputation, and just a few minutes of a cyber incident to ruin it.” 💥
+  
+“It takes 20+ years to build a reputation, and just a few minutes of a cyber incident to ruin it.” 💥
 
 ## 👨‍💻 About Me  
 🚀 👋 **I'm Harsh Kumar Gupta**  
