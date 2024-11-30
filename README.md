@@ -1,9 +1,10 @@
-# Hi there! 
+# Welcome to my GitHub profile! 
 ## **Lets start by famous quote** 
 Its takes 20+ years to build a reputation and few mins of cyber incident to ruin it
-Welcome to my GitHub profile! 🚀 👋 I'm Harsh Kumar Gupta  and I'm **Cyber Security Enthusiast**
+
 
 ## 👨‍💻 About Me  
+🚀 👋 **I'm Harsh Kumar Gupta**
 I am enthusiastic about forging a career in cybersecurity as a Security Analyst. Armed with a solid understanding of security concepts, proficiency in networking protocols, and hands-on experience with SIEM tools, antivirus, and firewall technologies, my goal is to safeguard organizational data and assets.
 
 I am eagerly looking forward to applying my skills and knowledge to a challenging cybersecurity role, where I can contribute positively to the organization's security landscape.
